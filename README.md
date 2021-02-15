@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 15.02.2021
 **Name:** Melike
 **Surname:** Çiftçi
 **Email:** mlkcftc01@gmail.com  
