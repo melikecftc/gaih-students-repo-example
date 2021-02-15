@@ -4,7 +4,7 @@
 **Course Date:** DD.MM.YYYY  
 **Name:** Melike
 **Surname:** Çiftçi
-**Email:** mertcobanov@gmail.com  
+**Email:** mlkcftc01@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
